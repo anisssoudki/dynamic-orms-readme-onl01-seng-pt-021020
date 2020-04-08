@@ -59,6 +59,7 @@ class Song
   end
 
 end
-
+song = Song.new(name: "Hello", album: "25")
+puts song
 
 
